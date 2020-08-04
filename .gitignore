@@ -30,3 +30,9 @@ node_modules
 # sublime project files
 *.sublime-project
 *.sublime-workspace
+
+#jetbrains
+.idea
+
+#macDSStore
+.DS_Store

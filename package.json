@@ -1,6 +1,6 @@
 {
   "name": "waterlock-local-auth",
-  "version": "v0.1.2-rc1",
+  "version": "v0.1.2-rc2",
   "description": "local authentication for waterlock",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "authentication",
     "sails"
   ],
-  "devDependencies":{
+  "devDependencies": {
     "mocha": "*",
     "should": "*",
     "proxyquire": "*",
@@ -24,8 +24,8 @@
     "istanbul": "*",
     "jshint": "*"
   },
-  "dependencies":{
-    "bcrypt": "~0.8.5",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
     "lodash": "~3.10.0",
     "moment": "~2.10.6",
     "nodemailer": "1.4.0",
