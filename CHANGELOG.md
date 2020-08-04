@@ -1,3 +1,5 @@
+# v0.1.2-rc2
+* [REFACTORING] update to make work with sails @^0.12.14
 # v0.1.2-rc1
 * [REFACTORING] [#36](https://github.com/waterlock/waterlock-local-auth/pull/36) update bcrypt version
 * [REFACTORING] Replace for..in on lodash alternative 

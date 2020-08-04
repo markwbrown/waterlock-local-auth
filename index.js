@@ -1,6 +1,6 @@
 /**
  * waterlock-local-auth
- * Copyright(c) 2014 David Rivera <david.r.rivera193@gmail.com>
+ * Copyright(c) 2020 Mark Brown <mark@brightproductions.com>
  * MIT Licensed
  */
 module.exports = require('./lib/waterlock-local-auth'); 
