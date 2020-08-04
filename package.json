@@ -1,6 +1,6 @@
 {
-  "name": "waterlock-local-auth",
-  "version": "v0.1.2-rc2",
+  "name": "@brightproductions/waterlock-local-auth",
+  "version": "0.1.2-rc2",
   "description": "local authentication for waterlock",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidrivera/waterlock-local-auth"
+    "url": "git+https://github.com/markwbrown/waterlock-local-auth.git"
   },
   "keywords": [
     "waterlock",
@@ -33,20 +33,22 @@
     "jwt-simple": "~0.3.0",
     "node-uuid": "~1.4.2"
   },
-  "author": "David Rivera <david.r.rivera193@gmail.com>",
+  "author": "Mark Brown <mark@brightproductions.com>",
   "contributors": [
-    {
-      "name": "David Rivera",
-      "email": "david.r.rivera193@gmail.com"
-    }
+    "Mark Brown <mark@brightproductions.com>",
+    "David Rivera <david.r.rivera193@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davidrivera/waterlock-local-auth/issues"
+    "url": "https://github.com/markwbrown/waterlock-local-auth/issues"
   },
-  "homepage": "https://github.com/davidrivera/waterlock-local-auth",
+  "homepage": "https://github.com/markwbrown/waterlock-local-auth",
   "preferGlobal": false,
   "engines": {
     "node": ">=0.10"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
