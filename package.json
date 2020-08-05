@@ -26,12 +26,12 @@
   },
   "dependencies": {
     "bcrypt": "^5.0.0",
+    "jwt-simple": "~0.3.0",
     "lodash": "~3.10.0",
     "moment": "~2.10.6",
+    "node-uuid": "~1.4.2",
     "nodemailer": "1.4.0",
-    "jade": "~1.11.0",
-    "jwt-simple": "~0.3.0",
-    "node-uuid": "~1.4.2"
+    "pug": "^3.0.0"
   },
   "author": "Mark Brown <mark@brightproductions.com>",
   "contributors": [
